@@ -41,7 +41,7 @@
   
   
 }
-.a, .b, .c, .d, .e, .f, .g{
+.a, .b, .c, .d, .e, .f, .lo{
   background-color:#EFEFEF;
   border:2px solid #E6F4E8;
   height:500px;
@@ -55,7 +55,7 @@
 .c{
   top:-1200px;
 }
-.s1, .s2, .s3, .s4,.s5, .s6{
+.s1, .s2, .s3, .s4,.s5, .s6, .do{
   width:300px;
   height:70px;
   border:2px solid #45D217;
@@ -113,6 +113,7 @@
 .g, .g1, .g2, .g3, .g4, .g5{
   position:relative;
   top:15px;
+  left:350px;
 }
 .n1{
   font: italic small-caps bold 18px/1.6 "Open Sans", sans-serif;
@@ -130,3 +131,7 @@
   position: relative;
   top:20px;
 }
+.g4{
+  left:280px;
+}
+
